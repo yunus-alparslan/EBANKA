@@ -1,0 +1,51 @@
+C:\Users\PC\source\repos\EBankam\EBankam\bin\Debug\EBankam.exe.config
+C:\Users\PC\source\repos\EBankam\EBankam\bin\Debug\EBankam.exe
+C:\Users\PC\source\repos\EBankam\EBankam\bin\Debug\EBankam.pdb
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.Form1.resources
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.Properties.Resources.resources
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.exe
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.pdb
+C:\Users\PC\source\repos\EBankam\EBankam\obj\Debug\EBankam.Bankam.resources
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\bin\Debug\EBankam.exe.config
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\bin\Debug\EBankam.exe
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\bin\Debug\EBankam.pdb
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.Bankam.resources
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.Form1.resources
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.Properties.Resources.resources
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.exe
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.pdb
+C:\Users\PC\Desktop\C# Projelerim\EBankam\EBankam\obj\Debug\EBankam.Sifrempanel.resources
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\bin\Debug\EBankam.exe.config
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\bin\Debug\EBankam.exe
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\bin\Debug\EBankam.pdb
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.Bankam.resources
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.Form1.resources
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.Properties.Resources.resources
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.Sifrempanel.resources
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.exe
+C:\Users\PC\OneDrive\Masaüstü\EBankam\EBankam\obj\Debug\EBankam.pdb
+C:\Users\PC\Desktop\EBankam\EBankam\bin\Debug\EBankam.exe.config
+C:\Users\PC\Desktop\EBankam\EBankam\bin\Debug\EBankam.exe
+C:\Users\PC\Desktop\EBankam\EBankam\bin\Debug\EBankam.pdb
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.Bankam.resources
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.Form1.resources
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.Properties.Resources.resources
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.Sifrempanel.resources
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.exe
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.pdb
+C:\Users\PC\Desktop\EBankam\EBankam\obj\Debug\EBankam.BİLGİLER.resources
